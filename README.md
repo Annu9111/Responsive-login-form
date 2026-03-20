@@ -6,7 +6,7 @@ A clean and modern **Responsive Login Form UI** built using **HTML and CSS only*
 
 ## 💻 Live Demo
 
-👉 https://responsive-login-form-nu.vercel.app
+👉 https://responsive-login-form-nu.vercel.app/
 ---
 
 ## 🚀 Features
